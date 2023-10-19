@@ -13,6 +13,7 @@ Try or crash playwright with Python/Node.js/Java/.Net
     * pyenv for Python versions control
     * poetry for Project dependency control
     * Project dependcy detialls will be in pyproject.toml/poetry.lock
+* [Playwright for Python/Installation](https://playwright.dev/python/docs/intro)
 
 ## quick start
 
