@@ -5,6 +5,15 @@ Try or crash playwright with Python/Node.js/Java/.Net
 
 * Host system is missing dependencies to run browsers.
 
+## Prerequisites
+
+* Python 3.8 or higher.
+* Linux host such as Arch Linux, Debian, Ubuntu, RHEL ...etc
+* [pyenv+poetry](https://setup_dev_environment.ootori.dev/computer%20languages/programming_languages/python/python/#usage-with-pyenvpoetry)
+    * pyenv for Python versions control
+    * poetry for Project dependency control
+    * Project dependcy detialls will be in pyproject.toml/poetry.lock
+
 ## quick start
 
 ```shell
