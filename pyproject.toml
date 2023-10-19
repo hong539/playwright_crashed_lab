@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "playwright-crashed-lab"
+version = "0.1.0"
+description = "Try or crash playwright with Python/Node.js/Java/.Net"
+authors = ["YHH <yunghunghuang984@gmail.com>"]
+license = "Apache-2.0 license"
+readme = "README.md"
+packages = [{include = "playwright_crashed_lab"}]
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+pytest-playwright = "^0.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
